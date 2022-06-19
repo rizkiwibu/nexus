@@ -1,3 +1,3 @@
-web: node . --server
 bot: npm start
 
+web: node . --server
