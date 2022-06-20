@@ -8,10 +8,10 @@ global.owner = [
   ['+62 858-7883-6361'],
   ['+62 858-7883-6361'],
   ['+62 858-7883-6361'],
-  ['+62 838-1716-1861', 'rizki', true],
-  ['+62 838-1716-1861', 'rizki', true],
-  ['+62 858-7883-6361', 'ikystore', true],
-  ['+62 858-7883-6361', 'iky', true],
+  ['6285298046915', 'Nexus', true],
+  ['6285298046915', 'Nexus', true],
+  ['6285298046915', '-', true],
+  ['6285298046915', 'Nexus', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +39,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 Iky BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 Nexus-BOTあ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - Iky BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ -Nexus-BOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ Iky BOT'
+global.wm3 = '⫹⫺ Nexus-BOT'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -52,7 +52,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 Iky BOT あ⁩ 」'
+global.author = '                「 Nexus-BOT あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -79,8 +79,8 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 /*============== NOMOR ==============*/
 global.nomorbot = '62813282166936'
 global.nomorown = '6283817161861'
-global.namebot = 'iky-Bot'
-global.nameown = 'iky-kunn'
+global.namebot = 'Nexus-BOT'
+global.nameown = 'Nexus-BOT'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
